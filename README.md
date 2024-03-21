@@ -23,7 +23,7 @@ Then, I again utilized K-means to cluster the data with a k-value of four. Then 
 
 
 ## Conclusion
-
+Using the PCA model is more ideal. The elbow line shows a lower inertia compared to the inertia we see using the original scaled data. The clusters seem to be more condensed. There is some overlap of the clusters in both, but the clusters from the PCA model are more distinct.
 
 ## Acknowledgements
 Othmane Benyoucef - Instructor for Tulsa Community College Data Analytics Accelerated Training Program
