@@ -33,5 +33,3 @@ Kaylie Butler - TA
 Jacob Peroutek - TA
 
 EdX Bootcamps
-
-<a href="https://plnkr.co/edit/qAjh0duPRI4US6Q4DSCN?p=preview&preview" target="_blank">Adjusting font color for legend in CSS</a>
