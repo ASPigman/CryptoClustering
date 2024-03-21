@@ -7,7 +7,7 @@ The datasets used for analysis were provided by edX Boot Camps LLC, and are inte
 ## Methods
 I imported essential dependencies like pandas, hvplot, and sklearn. After preprocessing the data, I used the elbow method to find the best k-value to cluster the original data. The resulting line graph showed that four was the best k-value.
 
-![Value for k Using Original Data](https://github.com/ASPigman/CryptoClustering/assets/145923874/c6e2b717-343b-44e2-8132-8f08d0d600bb)
+![Value for k Using Original Data](https://github.com/ASPigman/CryptoClustering/assets/145923874/a3867d6a-92da-4026-95ea-52d61807b81f)
 
 From there, I used K-means to cluster the data with a k-value of four. Then I used hvplot to plot the clusters in a scatterplot. The results are shown below.
 
